@@ -1,5 +1,5 @@
 
-![Github](assets/1.webp)
+![Github](assets/1.png)
 
 # GIT. Micro Cheatsheet.
 GitHub creates a warehouse prompt code.
